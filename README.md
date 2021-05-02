@@ -28,7 +28,6 @@ Also, some fundamental courses on <b> Robotics </b>:
 - Multi-body Dynamics
 
 ## :mortar_board: Certifications
-- Machine Learning Course, Stanford University (Coursera)
 <dl>
    Machine Learning Course, Stanford University (Coursera)
   <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
