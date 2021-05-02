@@ -32,7 +32,11 @@ Also, some fundamental courses on <b> Robotics </b>:
    Machine Learning Course, Stanford University
   <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
 (K-Means), Principal Components Analysis </dd>
-   
+
+   Machine Learning Course, Stanford University
+  <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
+(K-Means), Principal Components Analysis </dd>
+
   Perception, University of Pennsylvania
   <dd> Camera Modeling, Rotation & Translation, Projective Transformations, Feature Extraction, Pose Estimation
 & Random Sample Consensus (RANSAC) using MATLAB </dd>
