@@ -43,10 +43,10 @@ Exploring Rapid Tress (RRTs) & Artificial Potential Field Methods using MATLAB <
 
 </dl>
 
+ [![Kartik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sachdevkartik&theme=xcode)](https://git.io/sachdevkartik)
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sachdevkartik&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachdevkartik&theme=tokyonight" />
 </p>
  
 <!--
