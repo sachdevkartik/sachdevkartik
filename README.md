@@ -22,7 +22,11 @@ To deepen my  <b> academic </b> and <b> practical knowledge </b> in Artificial I
 - Advanced Deep Learning for Computer Graphics
 
 
-I have taken up a multitude of <b> courses </b>:
+Also, some fundamental courses on <b> Robotics </b>:
+- Advanced Robotic Kinematics and Dynamics
+- Control Engineering
+- Robotic Systems 
+- Multi-body Dynamics
 
 <!--
 **sachdevkartik/sachdevkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
