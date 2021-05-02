@@ -11,8 +11,8 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue)
 ![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=orange)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-informational?style=flat&logo=MATLAB&logoColor=white&color=red)
-![Git](https://img.shields.io/badge/Git-Intermediate-informational?style=flat&logo=Git&logoColor=white&color=critical)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-informational?style=flat&logo=Linux&logoColor=white&color=yellow)
+![Git](https://img.shields.io/badge/Git-Intermediate-informational?style=flat&logo=Git&logoColor=white&color=blueviolet)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-informational?style=flat&logo=Linux&logoColor=white&color=9cf)
 
 ## ⚡ Projects
 - [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
