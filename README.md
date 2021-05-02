@@ -24,7 +24,7 @@ I have taken up a multitude of courses related to <b> Artificial Intellegence </
 ## :mortar_board: Certifications
 <dl>
    
-   Machine Learning Course, Stanford University
+   <li> Machine Learning Course, Stanford University </li>
   <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
 (K-Means), Principal Components Analysis </dd>
 
