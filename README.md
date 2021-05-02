@@ -13,6 +13,7 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 
 ## :wrench: Technologies and Tools
 
+<p style="width:50px;"> ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue) </p>
  <span style="display:inline-block; width: 50;"> ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue) </span>
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-informational?style=flat&logo=MATLAB&logoColor=white&color=red)
