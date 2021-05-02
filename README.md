@@ -22,7 +22,7 @@ To deepen my  <b> academic </b> and <b> practical knowledge </b> in Artificial I
 - Advanced Deep Learning for Computer Graphics
 
 
-To deepen my <b> academic </b> and <b> practical knowledge </b> in Artificial Intellegence, I have taken up a multitude of courses:
+To deepen my <b> academic </b> and <b> practical knowledge </b> in Artificial Intellegence, I have taken up a multitude of <b> courses </b>:
 
 <!--
 **sachdevkartik/sachdevkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
