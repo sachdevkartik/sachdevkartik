@@ -21,12 +21,25 @@ I have taken up a multitude of courses related to <b> Artificial Intellegence </
 - Computer Science in Mechanical Engineering
 - Advanced Deep Learning for Computer Graphics
 
-
 Also, some fundamental courses on <b> Robotics </b>:
 - Advanced Robotic Kinematics and Dynamics
 - Control Engineering
 - Robotic Systems 
 - Multi-body Dynamics
+
+## :mortar_board: Certifications
+- Machine Learning Course, Stanford University (Coursera)
+<dl>
+  <dt>Hummus</dt>
+  <dd>A thick dip/sauce generally made from chick peas blended with tahini, lemon juice, salt, garlic, and other ingredients.</dd>
+  <dt>Pita</dt>
+  <dd>A soft, slightly leavened flatbread.</dd>
+  <dt>Halloumi</dt>
+  <dd>A semi-hard, unripened, brined cheese with a higher-than-usual melting point, usually made from goat/sheep milk.</dd>
+  <dt>Green salad</dt>
+  <dd>That green healthy stuff that many of us just use to garnish kebabs.</dd>
+</dl>
+
 
 <!--
 **sachdevkartik/sachdevkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
