@@ -1,5 +1,5 @@
 # Kartik Sachdev
-## ⚡ About Me
+## :smiley: About Me
 I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Artificial Intellegence. </br> My interests include:
 - Deep Learning
 - Computer Vision 
@@ -12,7 +12,7 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 - [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
 
 
-## ⚡ Academics
+## :book: Academics
 To deepen my  <b> academic </b> and <b> practical knowledge </b> in Artificial Intellegence, I have taken up a multitude of courses: </br>
 - Computer Vision
 - Machine Learning 
@@ -22,7 +22,7 @@ To deepen my  <b> academic </b> and <b> practical knowledge </b> in Artificial I
 - Advanced Deep Learning for Computer Graphics
 
 
-To deepen my <b> academic </b> and <b> practical knowledge </b> in Artificial Intellegence, I have taken up a multitude of <b> courses </b>:
+I have taken up a multitude of <b> courses </b>:
 
 <!--
 **sachdevkartik/sachdevkartik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
