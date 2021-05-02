@@ -30,14 +30,18 @@ Also, some fundamental courses on <b> Robotics </b>:
 ## :mortar_board: Certifications
 - Machine Learning Course, Stanford University (Coursera)
 <dl>
-   Hummus
-  <dd>A thick dip/sauce generally made from chick peas blended with tahini, lemon juice, salt, garlic, and other ingredients.</dd>
-  <dt>Pita</dt>
-  <dd>A soft, slightly leavened flatbread.</dd>
-  <dt>Halloumi</dt>
-  <dd>A semi-hard, unripened, brined cheese with a higher-than-usual melting point, usually made from goat/sheep milk.</dd>
-  <dt>Green salad</dt>
-  <dd>That green healthy stuff that many of us just use to garnish kebabs.</dd>
+   Machine Learning Course, Stanford University (Coursera)
+  <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
+(K-Means), Principal Components Analysis </dd>
+   
+  Perception, University of Pennsylvania
+  <dd> Camera Modeling, Rotation & Translation, Projective Transformations, Feature Extraction, Pose Estimation
+& Random Sample Consensus (RANSAC) using MATLAB </dd>
+
+  Computational Motion Planning, University of Pennsylvania
+  <dd> Graph-based Plan Methods (Grassfire, Dijkstra's & A* Algorithm), Probabilistic Road Maps, Randomly
+Exploring Rapid Tress (RRTs) & Artificial Potential Field Methods using MATLAB </dd>
+
 </dl>
 
 
