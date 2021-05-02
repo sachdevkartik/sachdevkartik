@@ -24,15 +24,15 @@ I have taken up a multitude of courses related to <b> Artificial Intellegence </
 ## :mortar_board: Certifications
 <dl>
    
-   <li> Machine Learning Course, Stanford University </li>
+   **Machine Learning Course, Stanford University**
   <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
 (K-Means), Principal Components Analysis </dd>
 
-  Perception, University of Pennsylvania
+  **Perception, University of Pennsylvania**
   <dd> Camera Modeling, Rotation & Translation, Projective Transformations, Feature Extraction, Pose Estimation
 & Random Sample Consensus (RANSAC) using MATLAB </dd>
 
-  Computational Motion Planning, University of Pennsylvania
+  **Computational Motion Planning, University of Pennsylvania**
   <dd> Graph-based Plan Methods (Grassfire, Dijkstra's & A* Algorithm), Probabilistic Road Maps, Randomly
 Exploring Rapid Tress (RRTs) & Artificial Potential Field Methods using MATLAB </dd>
 
