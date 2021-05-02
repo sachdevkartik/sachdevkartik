@@ -42,6 +42,7 @@ I have taken up a multitude of courses related to <b> Artificial Intellegence </
 Exploring Rapid Tress (RRTs) & Artificial Potential Field Methods using MATLAB </dd>
 
 </dl>
+<br><br>
 
  <!--[![Kartik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sachdevkartik&theme=xcode)](https://git.io/sachdevkartik)
 <p align="center">-->
