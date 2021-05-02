@@ -1,5 +1,5 @@
 # Kartik Sachdev
-## About Me :smiley: 
+## About Me
 I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Artificial Intellegence. </br> My interests include:
 - Deep Learning
 - Computer Vision 
