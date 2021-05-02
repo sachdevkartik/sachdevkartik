@@ -8,6 +8,7 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 
 ## :wrench: Technologies and Tools
 ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=blue)
+![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue)
 
 ## ⚡ Projects
 - [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
