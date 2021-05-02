@@ -17,14 +17,14 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
  <span> ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-informational?style=flat&logo=MATLAB&logoColor=white&color=red) ![Git](https://img.shields.io/badge/Git-Intermediate-informational?style=flat&logo=Git&logoColor=white&color=green) ![Linux](https://img.shields.io/badge/Linux-Intermediate-informational?style=flat&logo=Linux&logoColor=white&color=9cf) </span>
 
 
-## :book: Academics
+<!--## :book: Academics
 I have taken up a multitude of courses related to <b> Artificial Intellegence </b> : <br>
 - Computer Vision
 - Machine Learning 
 - Deep Learning for Visual Recognition
 - Artificial Intelligence and Data Analytics
 - Computer Science in Mechanical Engineering
-- Advanced Deep Learning for Computer Graphics
+- Advanced Deep Learning for Computer Graphics-->
 
 ## :mortar_board: Certifications
 <dl>
