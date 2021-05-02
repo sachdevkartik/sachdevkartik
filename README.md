@@ -30,7 +30,7 @@ Also, some fundamental courses on <b> Robotics </b>:
 ## :mortar_board: Certifications
 - Machine Learning Course, Stanford University (Coursera)
 <dl>
-  <dt>Hummus</dt>
+   Hummus
   <dd>A thick dip/sauce generally made from chick peas blended with tahini, lemon juice, salt, garlic, and other ingredients.</dd>
   <dt>Pita</dt>
   <dd>A soft, slightly leavened flatbread.</dd>
