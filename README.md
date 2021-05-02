@@ -17,9 +17,10 @@ To deepen my academic and practical knowledge in Artificial Intellegence, I have
 - Computer Vision
 - Machine Learning 
 - Deep Learning for Visual Recognition
+- Artificial Intelligence and Data Analytics
 - Computer Science in Mechanical Engineering
 - Advanced Deep Learning for Computer Graphics
-- Artificial Intelligence and Data Analytics
+
 
 To deepen my academic and practical knowledge in Artificial Intellegence, I have taken up a multitude of courses:
 
