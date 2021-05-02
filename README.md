@@ -1,11 +1,11 @@
 # Kartik Sachdev
-## About Me
+## ⚡ About Me
 I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Deep Learning. </br> My interests include:
 - Computer Vision 
 - Reinforcement Learning
 - Software development for robotic applications </br>
 
-## Projects
+## ⚡ Projects
 - [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
 - [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
 - [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
