@@ -14,12 +14,12 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 
 ## ⚡ Academics
 To deepen my academic and practical knowledge in Artificial Intellegence, I have taken up a multitude of courses: </br>
-:book: **Deep Learning for Visual Recognition** </br>
-:book: **Machine Learning** </br>
-:book: **Computer Science in Mechanical Engineering** </br>
-:book: **Advanced Deep Learning for Computer Graphics** </br>
-:book: **Computer Vision** </br>
-:book: **Artificial Intelligence and Data Analytics** </br>
+:book: Deep Learning for Visual Recognition </br>
+:book: Machine Learning </br>
+:book: Computer Science in Mechanical Engineering </br>
+:book: Advanced Deep Learning for Computer Graphics </br>
+:book: Computer Vision </br>
+:book: Artificial Intelligence and Data Analytics </br>
 
 To deepen my academic and practical knowledge in Artificial Intellegence, I have taken up a multitude of courses:
 
