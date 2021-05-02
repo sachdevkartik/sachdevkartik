@@ -21,12 +21,6 @@ I have taken up a multitude of courses related to <b> Artificial Intellegence </
 - Computer Science in Mechanical Engineering
 - Advanced Deep Learning for Computer Graphics
 
-Also, some fundamental courses on <b> Robotics </b>:
-- Advanced Robotic Kinematics and Dynamics
-- Control Engineering
-- Robotic Systems 
-- Multi-body Dynamics
-
 ## :mortar_board: Certifications
 <dl>
    
