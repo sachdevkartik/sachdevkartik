@@ -9,8 +9,8 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 ## :wrench: Technologies and Tools
 ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen)
 ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue)
-![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=orange)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-informational?style=flat&logo=MATLAB&logoColor=white&color=red)
+![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=green)
 ![Git](https://img.shields.io/badge/Git-Intermediate-informational?style=flat&logo=Git&logoColor=white&color=blueviolet)
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-informational?style=flat&logo=Linux&logoColor=white&color=9cf)
 
