@@ -29,10 +29,7 @@ Also, some fundamental courses on <b> Robotics </b>:
 
 ## :mortar_board: Certifications
 <dl>
-   Machine Learning Course, Stanford University
-  <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
-(K-Means), Principal Components Analysis </dd>
-
+   
    Machine Learning Course, Stanford University
   <dd> Logistic Regression, Supervised learning (Support Vector Machines, Neural Networks), Unsupervised learning
 (K-Means), Principal Components Analysis </dd>
