@@ -6,19 +6,19 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 - Reinforcement Learning
 - Software development for robotic applications </br>
 
+## ⚡ Projects
+- [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
+- [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
+- [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
+
 ## :wrench: Technologies and Tools
 
-![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) <span style="display:inline-block; width: 10;"></span>
+ <span style="display:inline-block; width: 10;"> ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) </span>
 ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-informational?style=flat&logo=MATLAB&logoColor=white&color=red)
 ![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=green)
 ![Git](https://img.shields.io/badge/Git-Intermediate-informational?style=flat&logo=Git&logoColor=white&color=blueviolet)
 ![Linux](https://img.shields.io/badge/Linux-Intermediate-informational?style=flat&logo=Linux&logoColor=white&color=9cf)
-
-## ⚡ Projects
-- [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
-- [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
-- [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
 
 
 ## :book: Academics
