@@ -7,9 +7,11 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 - Software development for robotic applications </br>
 
 ## ⚡ Projects
-- [Lab-ml: Deep Learning implementations with explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
+- [Lab-ml: Deep Learning Implementations with Explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
 - [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
 - [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
+- [Reinforcement Learning Algorithms with explainations](https://github.com/sachdevkartik/Reinforcement-Learning) - **Complete**
+- [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) - **Under development**
 
 ## :wrench: Technologies and Tools
  <span> ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue) ![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=blueviolet) </span>
