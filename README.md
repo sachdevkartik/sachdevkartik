@@ -1,6 +1,7 @@
 # Kartik Sachdev
 ## About Me
-I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Artificial Intellegence. My interests include:
+I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Artificial Intellegence. 
+My interests include:
 - Deep Learning
 - Computer Vision 
 - Reinforcement Learning
@@ -8,10 +9,11 @@ I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Rob
 
 ## ⚡ Projects
 - [Lab-ml: Deep Learning Implementations with Explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
+- [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) - **Contributing**
 - [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
 - [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
 - [Reinforcement Learning Algorithms with explainations](https://github.com/sachdevkartik/Reinforcement-Learning) - **Complete**
-- [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) - **Under development**
+
 
 ## :wrench: Technologies and Tools
  <span> ![python](https://img.shields.io/badge/Python-Intermediate-informational?style=flat&logo=Python&logoColor=white&color=brightgreen) ![C++](https://img.shields.io/badge/C++-Intermediate-informational?style=flat&logo=C++&logoColor=white&color=blue) ![ROS](https://img.shields.io/badge/ROS-Intermediate-informational?style=flat&logo=ROS&logoColor=white&color=blueviolet) </span>
