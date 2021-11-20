@@ -8,6 +8,9 @@ My interests include:
 - Software development for robotic applications </br>
 
 ## ⚡ Projects
+- [Discord bot based on Huggingface transformer](https://github.com/sachdevkartik/DiscordBot) - **Complete**
+- [AutoML using Autogluon, AutoPyTorch, Auto-sklearn](https://github.com/sachdevkartik/AutoML) - **AutoML Hackathon (3rd position)**
+- [Serving ML models using FastAPI](https://github.com/sachdevkartik/FastAPI) - **Contributing**
 - [Lab-ml: Deep Learning Implementations with Explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
 - [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) - **Contributing**
 - [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
