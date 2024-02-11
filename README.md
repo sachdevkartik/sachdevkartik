@@ -1,5 +1,4 @@
 # Kartik Sachdev
-## About Me
 Mentor at [Machine Learning for Science (ML4Sci)](https://ml4sci.org/) for [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) 2024. Twice contributed to GSoC in 2023 and 2022. Graduate from <b> RWTH Aachen University </b> with <b> MSc. Robotic Systems</b>. Passionate about Robotics and Artificial Intelligence. Interests include:
 - Deep Learning
 - Computer Vision 
