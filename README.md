@@ -6,7 +6,7 @@ Mentor at [Machine Learning for Science (ML4Sci)](https://ml4sci.org/) for [Goog
 - Software development for robotic applications </br>
 
 ## ⚡ Projects
-- [GSoC 2023 & 2022 Contribution to ML4Sci](https://github.com/ML4SCI/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev)
+- [GSoC 2023 & 2022: Contribution to ML4Sci](https://github.com/ML4SCI/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev)
 - [Imitation Learning for Self-Driving Cars](https://github.com/sachdevkartik/autobrains)
 - [Discord bot based on Huggingface transformer](https://github.com/sachdevkartik/DiscordBot)
 - [AutoML using Autogluon, AutoPyTorch, Auto-sklearn](https://github.com/sachdevkartik/AutoML) - **AutoML Hackathon (3rd position)**
