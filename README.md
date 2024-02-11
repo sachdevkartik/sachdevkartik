@@ -1,21 +1,22 @@
 # Kartik Sachdev
 ## About Me
-I am a graduate student at <b> RWTH Aachen University </b> pursuing <b> MSc. Robotic Systems</b>. I am passionate about Robotics and Artificial Intellegence.
-My interests include:
+Mentor at [Machine Learning for Science (ML4Sci)](https://ml4sci.org/) for [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) 2024. Twice contributed to GSoC in 2023 and 2022. Graduate from <b> RWTH Aachen University </b> with <b> MSc. Robotic Systems</b>. Passionate about Robotics and Artificial Intelligence. Interests include:
 - Deep Learning
 - Computer Vision 
 - Reinforcement Learning
 - Software development for robotic applications </br>
 
 ## ⚡ Projects
-- [Discord bot based on Huggingface transformer](https://github.com/sachdevkartik/DiscordBot) - **Complete**
+- [GSoC 2023 & 2022 Contribution to ML4Sci](https://github.com/ML4SCI/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev)
+- [Imitation Learning for Self-Driving Cars](https://github.com/sachdevkartik/autobrains)
+- [Discord bot based on Huggingface transformer](https://github.com/sachdevkartik/DiscordBot)
 - [AutoML using Autogluon, AutoPyTorch, Auto-sklearn](https://github.com/sachdevkartik/AutoML) - **AutoML Hackathon (3rd position)**
-- [Serving ML models using FastAPI](https://github.com/sachdevkartik/FastAPI) - **Contributing**
-- [Lab-ml: Deep Learning Implementations with Explainations using PyTorch](https://github.com/lab-ml/nn) - **Contributing**
-- [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) - **Contributing**
+- [Serving ML models using FastAPI](https://github.com/sachdevkartik/FastAPI) 
+- [Lab-ml: Deep Learning Implementations with Explanations using PyTorch](https://github.com/lab-ml/nn) 
+- [Deep Learning Fundamental Concepts - Computer Vision](https://github.com/sachdevkartik/Computer-Vision) 
 - [Explainable AI using SHAP & CXPlain](https://github.com/sachdevkartik/ExplainableAI) - **Fraunhofer Hackathon (2nd position)**
 - [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX) - **GPT-3 Hackathon**
-- [Reinforcement Learning Algorithms with explainations](https://github.com/sachdevkartik/Reinforcement-Learning) - **Complete**
+- [Reinforcement Learning Algorithms with explainations](https://github.com/sachdevkartik/Reinforcement-Learning)
 
 
 ## :wrench: Technologies and Tools
